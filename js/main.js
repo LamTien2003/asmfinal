@@ -6,21 +6,21 @@ const slides = [
         content3: "The 2022 list highlights places around the globe where travelers can be part of the solution"
     },
     {
-        background: "url(./img/slider-img-1.jpg) top center/ cover no-repeat fixed",
+        background: "url(./img/slider-img-1.jpg) top center/ cover no-repeat",
         content1: "Come with us",
         content2: "Explore and Travel",
         content3: "Good Luck!!!"
     }
     ,
     {
-        background: "url(./img/blog-img-4.jpg) top center/ cover no-repeat fixed",
+        background: "url(./img/blog-img-4.jpg) top center/ cover no-repeat",
         content1: "Come with us",
         content2: "Explore and Travel",
         content3: "Good Luck!!!"
     }
     ,
     {
-        background: "url(./img/blog-img-3.jpg) top center/ cover no-repeat fixed",
+        background: "url(./img/blog-img-3.jpg) top center/ cover no-repeat",
         content1: "Come with us",
         content2: "Explore and Travel",
         content3: "Good Luck!!!"
