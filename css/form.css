@@ -1,0 +1,71 @@
+.form-group i {
+    position: absolute;
+    top: 48px;
+    right: 16px;
+}
+.form-group {
+    display: flex;
+    margin-bottom: 16px;
+    flex-direction: column;
+    position: relative;
+  }
+  
+  .form-label,
+  .form-message {
+    text-align: left;
+  }
+  
+  .form-label {
+    font-weight: 700;
+    padding: 0 0 6px 6px;
+    line-height: 1.8rem;
+    font-size: 1rem;
+  }
+  .form-label-2 {
+    font-weight: 700;
+    padding: 0 0 6px 6px;
+    line-height: 1.8rem;
+    font-size: 1rem;
+  }
+  
+  .form-control {
+    padding: 8px 12px;
+    border: transparent;
+    border-radius: 3px;
+    outline: none;
+    font-size: 1.4rem;
+    background-color: #6fdcdf;
+    color: white;
+  }
+  .form-control-text {
+    padding: 8px 12px;
+    border: transparent;
+    border-radius: 3px;
+    outline: none;
+    font-size: 1.4rem;
+    background-color: #6fdcdf;
+    color: white;
+    width: 100%;
+  }
+  
+  .form-control:hover {
+    border-color: #1dbfaf;
+  }
+  .form-submit {
+    outline: none;
+    background-color: #fff;
+    padding: 12px 16px;
+    font-weight: 600;
+    color: black;
+    border: none;
+    width: 100%;
+    font-size: 14px;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
+  .form-submit:hover {
+    background-color: #1ac7b6;
+    color: white;
+  }
+  

@@ -1,0 +1,131 @@
+.pd-l-r-6 {
+    padding: 0 6px !important;
+}
+.pd-t-b-30 {
+    padding-top: 30px !important;
+    padding-bottom: 30px !important;
+}
+.pd-t-b-10 {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
+
+.flex {
+    display: flex;
+    flex-direction: column;
+}
+.flex-row {
+  flex-direction: row !important;
+}
+.padding-left-12 {
+    padding-left: 12px;
+}
+.padding-left-12 span {
+    padding-left: 10px;
+}
+.flex-r {
+    display: flex;
+}
+
+.header__icon .form-group {
+    position: absolute;
+}
+.header__icon .form-group i{
+    top: 30%;
+}
+
+input::placeholder {
+    color: #fff;
+    font-size: 14px;
+}
+.tour-1 {
+    width: 75%;
+    padding-right: 36px;
+}
+.tour-2 {
+    width: 25%;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.tour-item {
+    width: 50%;
+    padding: 10px 10px;
+    margin-bottom: 20px;
+    box-shadow: 5px 8px 13.92px 2.08px rgba(0, 0, 0, 0.05);
+
+}
+.tour-img {
+    width: 100%;
+}
+.tour-taskbar{
+    width: 100%;
+    height: 30px;
+    background-color: #3fd0d4;
+    color: white;
+}
+.tour-item h3 {
+    text-align: left;
+    font-size: 24px;
+    font-weight: 600;
+
+}
+.tour-item p {
+    text-align: left;
+    font-size: 16px;
+    color: #505050;
+}
+.tour-discription {
+    padding: 26px 20px;
+}
+.tour-discription h3,
+.tour-discription p,
+.tour-discription .discription__content {
+    padding: 10px 0;
+}
+.tour-taskbar {
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.icon {
+    display: flex;
+    flex-direction: row;
+    padding: 10px 20px;
+}
+.icon-item {
+    margin: 0 10px;
+}
+
+
+.tour-2 {
+    background-color: #3fd0d4;
+    color: white;
+    text-align: left;
+}
+.tour-2-content {
+    padding: 36px 16px;
+}
+.tour-2-input {
+    padding: 0 16px;
+}
+.tour-2-input-content {
+    padding: 18px 0;
+}
+.tour-2-title {
+    font-size: 20px;
+    font-weight: 900;
+    padding: 4px 0;
+}
+.tour-2-sub {
+    padding: 15px 0;
+    font-size: 15px;
+    font-weight: 300;
+} 
+.form-input {
+    position: relative;
+}
+.form-input i {
+    position: absolute;
+    top: 60%;
+    right: 5%;
+}
